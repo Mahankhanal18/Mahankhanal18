@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/mahankhanal18](github.com/mahankhanal18)
 
-- 📝 I regularly write articles on [Techs & latest news](Techs & latest news)
+- 📝 I regularly write articles on [Techs & latest news]
 
 - 📫 How to reach me **mahankhanal5@gmail.com**
 
