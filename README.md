@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahankhanal18" alt="mahankhanal18" /></a> </p>
 
+<p align="center"> <img src="/Users/mahankhanal/Desktop/JS/mahan.jpg" alt="Mahan Khanal" /> </p>
+
 - 👨‍💻 All of my projects are available at [github.com/mahankhanal18](github.com/mahankhanal18)
 
 - 📫 How to reach me **mahankhanal5@gmail.com**
