@@ -1,3 +1,19 @@
+about_me = {
+    "general_info": {
+        "name": "Mahan Khanal 👨‍💻",
+        "location": "Birgunj 🏠",
+        "email": ["📫 mahankhanal5@gmail.com", "📫 mahankhanal8@gmail.com"],
+    },
+    "tech_stack": {
+        "programming_languages": ["Python 🐍", "C 🗃️", "JS 🌐"],
+        "backend_tech_stack": ["Node js🌐", "mongo🛠️"],
+        "frontend": ["HTML 📄", "CSS 🎨", "Tailwind 🌪️", "React ⚛️", "Bootstrap 🅱️"],
+        "development_tech_stack": [, "VSCode 🧑‍💻", "Docker 🐳", "Linux 🐧"],
+        "exploring": ["NestJS 🏠🐦", "ML 🤖"],
+    }
+}
+
+
 <h1 align="center">Hi 👋, I'm Mahan Khanal</h1>
 <h3 align="center">Software Engineer</h3>
 
